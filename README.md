@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am just a regular university student with a passion for robotics, reading books, comics, and enjoying movies.
 <!--
 **ZuhayerX/ZuhayerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
